@@ -8,3 +8,5 @@ hello test3
 
 hello for requestbin
  update after fixes 28th april 2016
+ 
+ yo ... working with GET  now
